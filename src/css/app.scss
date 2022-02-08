@@ -1,0 +1,39 @@
+// app global css in SCSS form
+
+.ob-a {
+  border-style: solid;
+  border-width: 5px;
+  border-color: $primary;
+}
+.rb-a {
+  border-style: solid;
+  border-width: 5px;
+  border-color: $secondary;
+}
+.nb-a {
+  border-style: solid;
+  border-width: 5px;
+  border-color: $negative;
+}
+.pb-a {
+  border-style: solid;
+  border-width: 5px;
+  border-color: $positive;
+}
+.bb-a {
+  border-style: solid;
+  border-width: 5px;
+  border-color: $accent;
+}
+.ob-t {
+  border-top: solid 5px $secondary;
+}
+.ob-l {
+  border-left: solid 5px $secondary;
+}
+.ob-r {
+  border-right: solid 5px $secondary;
+}
+.ob-b {
+  border-bottom: solid 5px $secondary;
+}
