@@ -191,7 +191,7 @@ export default ({
   data () {
     return {
       apiURL: 'https://xfvqik0d56.execute-api.us-east-1.amazonaws.com/Prod',
-      user: '8325895877',
+      user: '',
       loadingWorkout: false,
       workoutLoaded: false,
       exercise_idx: 0,
